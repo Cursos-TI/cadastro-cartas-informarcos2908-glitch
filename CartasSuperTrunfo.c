@@ -54,7 +54,8 @@ int main() {
       printf("PIB: %.2f \n", pib1);
       printf("Turismo: %d pontos\n", pontosTuristicos1);
       printf("*********************************\n");
-
+      
+      printf("Até o momento o meu código nível iniciante está muito bom!\n");
 
 return 0;
 } 
